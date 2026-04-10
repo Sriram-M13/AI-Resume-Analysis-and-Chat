@@ -1,4 +1,4 @@
-README.md#   AI Resume Analysis and Candidate Ranking Tool
+#   AI Resume Analysis and Candidate Ranking Tool
 
 This is a Streamlit application that analyzes resumes, ranks candidates based on a job description, and provides a chat interface for querying the resumes. It uses Ollama for local LLM inference.
 
